@@ -1,0 +1,14 @@
+
+info [Fri Mar 15 2019 14:46:50 GMT+0530 (India Standard Time)]  loading an array [ 1, 2, 3 ] now!
+
+info [Fri Mar 15 2019 14:49:28 GMT+0530 (India Standard Time)]  loading an array [ 1, 2, 3 ] now!
+debug [Fri Mar 15 2019 14:49:28 GMT+0530 (India Standard Time)]  this will be logged now
+
+info [Fri Mar 15 2019 15:03:46 GMT+0530 (India Standard Time)]  loading an array [ 1, 2, 3 ] now!
+debug [Fri Mar 15 2019 15:03:46 GMT+0530 (India Standard Time)]  this will be logged now
+
+info [Fri Mar 15 2019 15:07:19 GMT+0530 (India Standard Time)]  loading an array [ 1, 2, 3 ] now!
+debug [Fri Mar 15 2019 15:07:19 GMT+0530 (India Standard Time)]  this will be logged now
+
+info [Fri Mar 15 2019 15:11:54 GMT+0530 (India Standard Time)]  loading an array [ 1, 2, 3 ] now!
+debug [Fri Mar 15 2019 15:11:54 GMT+0530 (India Standard Time)]  this will be logged now

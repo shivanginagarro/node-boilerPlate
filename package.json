@@ -1,0 +1,19 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "generic boilerplate for rest api server setup",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "shivangi upadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "logger": "0.0.1"
+  }
+}
